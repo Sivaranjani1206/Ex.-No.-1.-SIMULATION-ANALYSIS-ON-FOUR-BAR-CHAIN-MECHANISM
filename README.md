@@ -60,6 +60,7 @@
 
 ### Name:Sivaranjani M
 ### Register Number: 25008742
+### Department : Information technology
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
